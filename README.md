@@ -1,5 +1,5 @@
-Path
-====
+Accessor
+========
 
 [![Build Status][]](https://travis-ci.org/phine/lib-accessor)
 [![Coverage Status][]](https://coveralls.io/r/phine/lib-accessor)
